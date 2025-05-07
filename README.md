@@ -9,7 +9,7 @@ A lightweight module to detect mouse hovering over `BasePart` instances on the c
 
 - ## Dependencies
 
-This module uses [Signal](https://github.com/Sleitnick/RbxUtil/blob/main/modules/Signal.lua) by [Sleitnick](https://github.com/Sleitnick), a lightweight and efficient event system for Roblox.
+This module uses [Signal]([https://github.com/Sleitnick/RbxUtil/blob/main/modules/Signal.lua](https://github.com/Sleitnick/RbxUtil/tree/main/modules/signal)) by [Sleitnick](https://github.com/Sleitnick), a lightweight and efficient event system for Roblox.
 
 The `Signal.lua` file included in this repository is a direct copy of that module.
 
